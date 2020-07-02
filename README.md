@@ -7,3 +7,5 @@
 #66 lc_plus_one.js
 
 #136 lc_single_number.js
+
+#217 lc_contains_duplicate.js
