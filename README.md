@@ -9,3 +9,5 @@
 #136 lc_single_number.js
 
 #217 lc_contains_duplicate.js
+
+#344 lc_reverse_string.js
