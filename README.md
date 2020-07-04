@@ -11,3 +11,5 @@
 #217 lc_contains_duplicate.js
 
 #344 lc_reverse_string.js
+
+#189 lc_rotate_array.js
