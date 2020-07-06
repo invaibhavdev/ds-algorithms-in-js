@@ -13,3 +13,7 @@
 #344 lc_reverse_string.js
 
 #189 lc_rotate_array.js
+
+#242 lc_valid_anagram.js
+
+#283 lc_move_zeroes.js
